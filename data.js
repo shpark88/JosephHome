@@ -699,7 +699,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Welcome to Joseph's Home",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
